@@ -1,18 +1,6 @@
 # candice-odenver-scraper
 Web scraper for talks by Candice O'Denver
 
-## What
-
-A friend of mine who love Candice O'Denver's Great Freedom lectures, told me he couldn't find the innumerable MP3s that used to be available for free on her site. Wanting to help my friend, I made this scraper to help download those old talks.
-
-## How
-
-I found the MP3s after looking through WayBackMachine at old snapshots of her sites. I found the page where the MP3s were, and found that they are still being hosted on AWS.
-
-I started downloading the MP3s manually, but then saw that there are thousands of them, and even the simple yet tedious process I had found would have taken me several days to weeks to complete.
-
-So I wrote this python scraping script in about 3 hours :)
-
 ## Usage
 
 This is a very basic script, uploaded soley for the purpose of aiding anyone who might also be looking for Candice O'Denver's free talks. It was written in 3 hours, and not with user experience in mind.
